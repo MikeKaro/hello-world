@@ -1,4 +1,4 @@
 # hello-world
 
-Mechanical engineer who loves programming. Learning Java.
+Mechanical Engineer. Learning Java. 
 From Greece.
